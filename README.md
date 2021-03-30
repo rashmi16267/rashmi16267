@@ -5,7 +5,7 @@
 - 📫 How to reach me :
 - Linked In : https://www.linkedin.com/in/rashmi-rao-7b7634202
 - Blog : https://jotmos.wordpress.com
-- Medium : https://medium.com/@rashmi16267
+- Medium : hhttps://rashmi16267.medium.com
 - Twitter : https://twitter.com/@rashmi16267
 - YouTube : https://www.youtube.com/channel/UCh7WIzrhOUGlDp9SQVX4G4A
 
