@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing an engineering degree in Computer Science with specialisation in Mobile Applications and Cloud technology
 - 💞️ I’m looking to collaborate on projects related to development of mobile (iOS or Android) or web applications
 - 📫 How to reach me :
-- Linked In : https://www.linkedin.com/in/rashmi16267
+- Linked In : https://www.linkedin.com/in/rashmirao16267/
 - Blog : https://jotmos.wordpress.com
 - Medium : https://rashmi16267.medium.com
 - Twitter : https://twitter.com/@rashmi16267
