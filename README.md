@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rashmi16267
-- 👀 I’m interested in Mobile Application and web development technologies
+- 👀 I’m interested in Mobile Application and web development
 - 🌱 I’m currently pursuing an engineering degree in Computer Science with specialisation in Mobile Applications and Cloud technology
 - 💞️ I’m looking to collaborate on projects related to development of mobile (iOS or Android) or web applications
 - 📫 How to reach me :
